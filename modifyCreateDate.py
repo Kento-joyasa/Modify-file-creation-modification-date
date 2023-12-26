@@ -5,7 +5,7 @@ import win32file
 import win32con
 
 # 设置要更改的单个文件路径
-file_path = r'F:\AllCode\suanfa\期末作业\2021204469师宇鹤.pdf'
+file_path = r'path_to_your_file'
 
 # 设置你想要更改到的具体时间
 target_year = 2023
